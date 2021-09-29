@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversor De Divisas</string>
+    <string name="conversor_de_divisas">Conversor De Divisas</string>
+    <string name="usd">USD</string>
+    <string name="gbp">GBP</string>
+    <string name="jpy">jpy</string>
+    <string name="introduce_la_cantidad_en_euros">Introduce la cantidad en euros</string>
+</resources>
